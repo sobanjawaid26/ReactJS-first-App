@@ -3,8 +3,43 @@
   <component name="ChangeListManager">
     <list default="true" id="a9071f7b-68e2-4d4b-858b-044bad651e14" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/react-scripts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/bin/react-scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/babelTransform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/cssTransform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/fileTransform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/paths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpackDevServer.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/eject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/start.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/utils/createJestConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +88,7 @@
       <workItem from="1579783182370" duration="3118000" />
       <workItem from="1579786691052" duration="109000" />
       <workItem from="1579841105461" duration="22344000" />
-      <workItem from="1580100720335" duration="9779000" />
+      <workItem from="1580100720335" duration="13553000" />
     </task>
     <servers />
   </component>
